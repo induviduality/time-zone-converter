@@ -8,7 +8,9 @@ This is a time zone converter at present. My idea for Hack APAC is to make a cro
 I'm a newbie to hackathons and in my first hackathon (which was LHD: Build), people from the APAC region including myself were exhausted from catching up with the event being halfway across the Earth. I found myself and fellow APAC hackers pulling all-nighters just to show up at events at 2:00 am or 4:00 am. It was choas trying to catch up with events when you haven't slept for days. When HackAPAC came along, I took this chance to make an app that'd be an International Hacker's compass. Hence this Cross-timezone reminder app.
 
 ## How did I build this? 
-I have always heard about APIs and the vast range of possibilities it opens up. Despite being a beginner, I decided to try out APIs and build something out of it. For this project, I have used 2 APIs.
+I have always heard about APIs and the vast range of possibilities it opens up. Despite being a beginner, I decided to try out APIs and build something out of it. For this project, I have used 3 APIs.
+
+ - http://worldtimeapi.org/
  - https://unixtime.co.za/
  - https://timezonedb.com/
  
