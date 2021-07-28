@@ -2,7 +2,6 @@ import requests
 import time
 import json
 
-#API key LL848IAQ75FZ
 from requests.models import Response
 
 r = requests.get("http://worldtimeapi.org/api/timezone")
